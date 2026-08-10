@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jesús Eduardo Escobar Meza 👋</h1>
 
-<h3 align="center">Computer Science & Technology Student · Junior Web Developer @ Rivemex</h3>
+<h3 align="center">Computer Science & Technology Student · Open to Internship / Part-time Opportunities</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+.NET+%26+React;Exploring+AI+%2F+ML+with+PyTorch+%26+PIGNNs;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
@@ -26,7 +26,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Studying **Computer Science and Technology** at **Tecnológico de Monterrey** (Class of 2027)
-- 💼 Currently working as a **Junior Web Developer** at **Rivemex**, building frontend features and SAP Business One integrations
+- 🔎 Actively looking for an **Internship** or **Part-time role** in software engineering / AI-ML / full-stack development
+- 🏫 Member of the **Education Board** of **SEITC**, the student group at Tecnológico de Monterrey
 - 🥈 **2nd place** at the SAERO Hackathon (Tec de Monterrey) — built a NASA-API-powered asteroid risk assessment tool in 24 hours
 - 🧠 Interested in **AI/ML, full-stack development, and IoT systems**
 - 🌱 Currently deepening my skills in **Graph Neural Networks** and **physics-informed deep learning**
@@ -90,12 +91,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JesusWor&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JesusWor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusWor&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusWor&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
