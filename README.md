@@ -13,7 +13,7 @@
   <a href="mailto:programjesuse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://landing-pagejesus.netlify.app">
+  <a href="https://jesusprogram.dev/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ing_jesusescobar">
